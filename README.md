@@ -14,8 +14,3 @@ This repository is part of my 30-day journey to master front-end development.
 - Build visually rich, functional web interfaces
 - Experiment with animations and interactivity
 - Share progress and inspire other learners
-
-## 📖 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/MyWebProjects.git
